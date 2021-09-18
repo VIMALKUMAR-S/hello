@@ -1,4 +1,4 @@
-public class Welcome
+public class Wel
 {
 public static void main (string[]args)
     {
